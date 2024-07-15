@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# My Custom
+*.vsidx
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.recipe
+*.ilk
+*.log
+*.idb
+*.pdb
+*.tlog
