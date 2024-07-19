@@ -29,5 +29,10 @@
     <ClCompile Include="[실버1]1747_소수&amp;팰린드롬.cpp" />
     <ClCompile Include="[골드1]★1016_제곱ㄴㄴ수.cpp" />
     <ClCompile Include="[골드1]★11689_GCD%28n,k%29=1.cpp" />
+    <ClCompile Include="[골드2]★★1033_칵테일.cpp" />
+    <ClCompile Include="[골드1]21568_Ax+By=C.cpp" />
+    <ClCompile Include="[실버2]18352_특정 거리의 도시 찾기.cpp" />
+    <ClCompile Include="[실버1]1325_효율적인 해킹.cpp" />
+    <ClCompile Include="[골드4]1707_이분 그래프.cpp" />
   </ItemGroup>
 </Project>
