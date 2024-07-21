@@ -33,6 +33,11 @@
     <ClCompile Include="[골드1]21568_Ax+By=C.cpp" />
     <ClCompile Include="[실버2]18352_특정 거리의 도시 찾기.cpp" />
     <ClCompile Include="[실버1]1325_효율적인 해킹.cpp" />
-    <ClCompile Include="[골드4]1707_이분 그래프.cpp" />
+    <ClCompile Include="08. 그래프\8-1 그래프의 표현\[골드4]★1707_이분 그래프.cpp" />
+    <ClCompile Include="[골드5] ★2251_물통.cpp" />
+    <ClCompile Include="[골드4]★1717_집합의 표현%28유니온 파인드%29.cpp" />
+    <ClCompile Include="[골드4]★1976_여행 가자.cpp" />
+    <ClCompile Include="[골드4]★1043_거짓말.cpp" />
+    <ClCompile Include="[스페셜 저지]2252_줄 세우기.cpp" />
   </ItemGroup>
 </Project>
