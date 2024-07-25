@@ -41,5 +41,6 @@
     <ClCompile Include="08. 그래프\[골드3]★2252_줄 세우기%28위상정렬%29.cpp" />
     <ClCompile Include="[골드3]1516_게임 개발.cpp" />
     <ClCompile Include="[플래티넘5]★1948_임계경로.cpp" />
+    <ClCompile Include="연습용.cpp" />
   </ItemGroup>
 </Project>
