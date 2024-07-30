@@ -44,5 +44,7 @@
     <ClCompile Include="08. 그래프\8-3 위상 정렬\[플래티넘5]★1948_임계경로.cpp" />
     <ClCompile Include="[골드5]1916_최소비용 구하기.cpp" />
     <ClCompile Include="[플래티넘5]★1854_k번째 최단경로 찾기.cpp" />
+    <ClCompile Include="[골드4]1197_최소 신장 트리.cpp" />
+    <ClCompile Include="[골드1]17472_다리 만들기.cpp" />
   </ItemGroup>
 </Project>
