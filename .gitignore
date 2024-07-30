@@ -45,3 +45,5 @@
 *.idb
 *.pdb
 *.tlog
+
+/.vs/CodingTest/v17/
