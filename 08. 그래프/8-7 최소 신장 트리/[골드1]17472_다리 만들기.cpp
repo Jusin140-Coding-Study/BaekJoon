@@ -74,16 +74,6 @@ int main()
 		}
 	}
 
-	// 임시
-	//for (int i = 0; i < N; ++i)
-	//{
-	//	for (int j = 0; j < M; ++j)
-	//	{
-	//		cout << Matrix[i][j] << " ";
-	//	}
-	//	cout << "\n";
-	//}
-
 	// 대표 노드 배열 초기화
 	Parents.resize(8);
 	for (int i = 2; i <= 7; ++i)
@@ -134,6 +124,7 @@ int main()
 		}
 	}
 
+	// 사용한 엣지의 개수가 섬 개수 - 1이 아닌 경우, 모두 연결되어 있지 않은 경우임
 	if (useEdge == nodeCnt - 1)
 		cout << result;
 	else
