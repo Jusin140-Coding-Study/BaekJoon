@@ -48,6 +48,11 @@
     <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드4]1197_최소 신장 트리.cpp" />
     <ClCompile Include="[골드3]1414_불우이웃돕기.cpp" />
     <ClCompile Include="[실버2]11725_트리의 부모 찾기.cpp" />
-    <ClCompile Include="[골드5]1068_트리.cpp" />
+    <ClCompile Include="09. 트리\9-1 트리 알아보기\[골드5]1068_트리.cpp" />
+    <ClCompile Include="[실버4]★14425_문자열 집합.cpp" />
+    <ClCompile Include="[실버1]1991_트리 순회.cpp" />
+    <ClCompile Include="[골드1]2042_구간 합 구하기.cpp" />
+    <ClCompile Include="[골드1]10868_최솟값.cpp" />
+    <ClCompile Include="[골드1]11505_구간 곱 구하기.cpp" />
   </ItemGroup>
 </Project>
