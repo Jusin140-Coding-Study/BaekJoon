@@ -54,6 +54,7 @@
     <ClCompile Include="[골드1]2042_구간 합 구하기.cpp" />
     <ClCompile Include="[골드1]10868_최솟값.cpp" />
     <ClCompile Include="[골드1]★11505_구간 곱 구하기.cpp" />
-    <ClCompile Include="[골드3]11437_LCA%28최소 공통 조상%29.cpp" />
+    <ClCompile Include="[골드3]★11437_LCA%28최소 공통 조상%29.cpp" />
+    <ClCompile Include="[플래티넘5]★11438_LCA2%28빠른 최소 공통 조상%29.cpp" />
   </ItemGroup>
 </Project>
