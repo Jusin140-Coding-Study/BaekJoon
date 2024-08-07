@@ -56,5 +56,12 @@
     <ClCompile Include="[골드1]★11505_구간 곱 구하기.cpp" />
     <ClCompile Include="[골드3]★11437_LCA%28최소 공통 조상%29.cpp" />
     <ClCompile Include="[플래티넘5]★11438_LCA2%28빠른 최소 공통 조상%29.cpp" />
+    <ClCompile Include="[브론즈1]11050_이항 계수1.cpp" />
+    <ClCompile Include="[실버2]11051_이항 계수2.cpp" />
+    <ClCompile Include="[브론즈1]2775_부녀회장이 될테야.cpp" />
+    <ClCompile Include="[실버5]1010_다리 놓기1010_.cpp" />
+    <ClCompile Include="[실버3]13251_조약돌 꺼내기.cpp" />
+    <ClCompile Include="[골드5]★1722_순열의 순서.cpp" />
+    <ClCompile Include="[골드3]1256_사전 찾기.cpp" />
   </ItemGroup>
 </Project>
