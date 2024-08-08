@@ -61,7 +61,9 @@
     <ClCompile Include="[브론즈1]2775_부녀회장이 될테야.cpp" />
     <ClCompile Include="[실버5]1010_다리 놓기1010_.cpp" />
     <ClCompile Include="[실버3]13251_조약돌 꺼내기.cpp" />
-    <ClCompile Include="[골드5]★1722_순열의 순서.cpp" />
-    <ClCompile Include="[골드3]1256_사전 찾기.cpp" />
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드2]★1256_사전 찾기.cpp" />
+    <ClCompile Include="[골드3]1947_선물 전달.cpp" />
+    <ClCompile Include="[브론즈2]2747_피보나치 수.cpp" />
+    <ClCompile Include="[실버3]1463_1로 만들기.cpp" />
   </ItemGroup>
 </Project>
