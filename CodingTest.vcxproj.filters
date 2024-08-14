@@ -199,6 +199,75 @@
     <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드1]17472_다리 만들기.cpp">
       <Filter>08. 그래프\08-7. 최소 신장 트리</Filter>
     </ClCompile>
+    <ClCompile Include="09. 트리\9-1 트리 알아보기\[실버2]11725_트리의 부모 찾기.cpp">
+      <Filter>09. 트리\09-1. 트리 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-1 트리 알아보기\[골드5]1068_트리.cpp">
+      <Filter>09. 트리\09-1. 트리 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-2 트라이\[실버4]★14425_문자열 집합.cpp">
+      <Filter>09. 트리\09-2. 트라이</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-3 이진 트리\[실버1]1991_트리 순회.cpp">
+      <Filter>09. 트리\09-3. 이진 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-4 세그먼트 트리\[골드1]10868_최솟값.cpp">
+      <Filter>09. 트리\09-4. 세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-4 세그먼트 트리\[골드1]★11505_구간 곱 구하기.cpp">
+      <Filter>09. 트리\09-4. 세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-4 세그먼트 트리\[골드1]2042_구간 합 구하기.cpp">
+      <Filter>09. 트리\09-4. 세그먼트 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-5 최소 공통 조상\[플래티넘5]★11438_LCA2(빠른 최소 공통 조상).cpp">
+      <Filter>09. 트리\09-5. 최소 공통 조상</Filter>
+    </ClCompile>
+    <ClCompile Include="09. 트리\9-5 최소 공통 조상\[골드3]★11437_LCA(최소 공통 조상).cpp">
+      <Filter>09. 트리\09-5. 최소 공통 조상</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[브론즈1]11050_이항 계수1.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[실버2]11051_이항 계수2.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[브론즈1]2775_부녀회장이 될테야.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[실버5]1010_다리 놓기1010_.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[실버3]13251_조약돌 꺼내기.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드5]★1722_순열의 순서.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드2]★1256_사전 찾기.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드3]1947_선물 전달.cpp">
+      <Filter>10. 조합\10-1. 조합 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\[실버3]1463_1로 만들기.cpp">
+      <Filter>11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\[골드5]13398_연속합2.cpp">
+      <Filter>11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\[골드4]9252_최장 공통 수열.cpp">
+      <Filter>11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\[골드4]1915_가장 큰 정사각형.cpp">
+      <Filter>11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\[플래티넘5]★1328_고층 빌딩.cpp">
+      <Filter>11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\[골드3]2342_DDR.cpp">
+      <Filter>11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="03. 자료구조">
@@ -293,6 +362,36 @@
     </Filter>
     <Filter Include="08. 그래프\08-7. 최소 신장 트리">
       <UniqueIdentifier>{c2a3ea11-44bf-4f14-926a-57411685a4e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. 트리">
+      <UniqueIdentifier>{ca508361-282f-4122-a4c8-5d928082696c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. 트리\09-1. 트리 알아보기">
+      <UniqueIdentifier>{76331284-597e-4632-b504-cbedfb58cf1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. 트리\09-2. 트라이">
+      <UniqueIdentifier>{7d49d016-e06c-4bac-9bfc-eabe0995534d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. 트리\09-3. 이진 트리">
+      <UniqueIdentifier>{5bf64941-c746-467e-890e-b7ead4f0c9da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. 트리\09-4. 세그먼트 트리">
+      <UniqueIdentifier>{2739d935-dabd-41e3-ba1b-498e1ca78d6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. 트리\09-5. 최소 공통 조상">
+      <UniqueIdentifier>{013f01bb-1346-476c-8699-77fbb0a88418}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10. 조합">
+      <UniqueIdentifier>{040ec791-d5e2-45ee-8b67-12fc171ddaad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10. 조합\10-1. 조합 알아보기">
+      <UniqueIdentifier>{386db235-b9a2-43a4-9bd2-c230e225b08f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. 동적 계획법">
+      <UniqueIdentifier>{5064abb8-6a81-47ba-b641-24a5f35556ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. 동적 계획법\11-1. 동적 계획법 알아보기">
+      <UniqueIdentifier>{2432958b-f5ce-4af3-8df7-156bfdddf3af}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
