@@ -1,2 +1,176 @@
-﻿  [골드4]1915_가장 큰 정사각형.cpp
-  CodingTest.vcxproj -> C:\Users\Park\Desktop\Do it! 코딩테스트 스터디\BaekJoon\x64\Debug\CodingTest.exe
+﻿  [브론즈 1]1546_평균 구하기.cpp
+C:\Users\kids1\Desktop\CodingTest Study\BaekJoon\03. 자료구조\3-1 배열과 리스트 그리고 벡터\[브론즈 1]1546_평균 구하기.cpp(21,18): warning C4244: '=': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+  [브론즈 4]11720_숫자의 합 구하기.cpp
+  [골드3]10986_나머지 합 구하기.cpp
+  [실버 1]11660_구간 합 구하기2.cpp
+  [실버 3]11659_구간 합 구하기.cpp
+  [골드4]1253_좋은 수 구하기.cpp
+  [실버4]1940_주몽의 명령.cpp
+  [실버5]2018_연속된 자연수의 합 구하기.cpp
+  [실버5]12891_DNA 비밀번호.cpp
+  [플래티넘 5]11003_최솟값 찾기.cpp
+  [골드4]★17298_오큰수 구하기.cpp
+  [실버1]★11286 절댓값 힙 구현하기.cpp
+  [실버2]1874_스택 수열.cpp
+  [실버4]2164 카드게임.cpp
+  [골드2]★1377_버블 소트.cpp
+  [브론즈2]2750_수 정렬하기1.cpp
+  [실버5]1427_내림차순으로 자릿수 정렬하기.cpp
+  [실버4]★11399_ATM.cpp
+  [실버5](왼쪽 값 피벗)11004_k번째 수.cpp
+  [실버5](중앙 값 피벗)11004_k번째 수.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  [실버5]2751_수 정렬하기2.cpp
+  [실버5]2751_수 정렬하기2_test.cpp
+  [플래티넘5]1517_버블 소트.cpp
+  [실버5]10989_수 정렬하기3.cpp
+  [골드5]13023_ABCDE.cpp
+  [골드5]2023_신기한 소수.cpp
+  [실버5]11724_연결 요소의 개수 구하기.cpp
+  [골드2]1167_트리의 지름.cpp
+  [실버1]2178_미로 탐색.cpp
+  [실버2]1260_DFS와 BFS.cpp
+  [골드1]★1300_k 번째 수 .cpp
+  [실버1]★2343_블루레이 만들기.cpp
+  [실버4]1920_이진 탐색.cpp
+C:\Users\kids1\Desktop\CodingTest Study\BaekJoon\05. 탐색\5-3 이진 탐색\[실버4]1920_이진 탐색.cpp(44,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  [골드4]1715_카드 정렬하기.cpp
+  [골드4]1744_수 묶기.cpp
+  [실버1]★1931_회의실 배정.cpp
+  [실버2]1541_잃어버린 괄호.cpp
+  [실버4]11047_동전0.cpp
+  [골드1]21568_Ax+By=C.cpp
+  [골드1]★1016_제곱ㄴㄴ수.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  [골드1]★11689_GCD(n,k)=1.cpp
+  [골드2]★★1033_칵테일.cpp
+  [골드5]1456_거의 소수.cpp
+C:\Users\kids1\Desktop\CodingTest Study\BaekJoon\07. 정수론\[골드5]1456_거의 소수.cpp(15,17): warning C4244: '초기화 중': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  [브론즈1]★1934_최소 공배수.cpp
+  [실버1]1747_소수&팰린드롬.cpp
+C:\Users\kids1\Desktop\CodingTest Study\BaekJoon\07. 정수론\[실버1]1747_소수&팰린드롬.cpp(43,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  [실버1]★1850_최대 공약수cpp.cpp
+  [실버3]1929_소수 구하기.cpp
+  [골드4]★1707_이분 그래프.cpp
+  [골드5]★2251_물통.cpp
+  [실버1]1325_효율적인 해킹.cpp
+  [실버2]18352_특정 거리의 도시 찾기.cpp
+  [골드4]★1043_거짓말.cpp
+  [골드4]★1717_집합의 표현(유니온 파인드).cpp
+  [골드4]★1976_여행 가자.cpp
+  [골드3]★1516_게임 개발.cpp
+  [골드3]★2252_줄 세우기(위상정렬).cpp
+  [플래티넘5]★1948_임계경로.cpp
+  [골드5]1916_최소비용 구하기.cpp
+  [골드5]★1753_최단 경로 구하기.cpp
+  [플래티넘5]★1854_k번째 최단경로 찾기.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  [골드4]11657_타임머신.cpp
+  [플래티넘5]★1219_오민식의 고민.cpp
+  [골드4]★11404_플로이드.cpp
+  [골드1]17472_다리 만들기.cpp
+  [골드3]1414_불우이웃돕기.cpp
+  [골드4]1197_최소 신장 트리.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\kids1\Desktop\CodingTest Study\BaekJoon\x64\Debug\CodingTest.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+[브론즈 4]11720_숫자의 합 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드3]10986_나머지 합 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버 1]11660_구간 합 구하기2.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버 3]11659_구간 합 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]1253_좋은 수 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버4]1940_주몽의 명령.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5]2018_연속된 자연수의 합 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5]12891_DNA 비밀번호.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘 5]11003_최솟값 찾기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]★17298_오큰수 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]★11286 절댓값 힙 구현하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버2]1874_스택 수열.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버4]2164 카드게임.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드2]★1377_버블 소트.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[브론즈2]2750_수 정렬하기1.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5]1427_내림차순으로 자릿수 정렬하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버4]★11399_ATM.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5](왼쪽 값 피벗)11004_k번째 수.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5](중앙 값 피벗)11004_k번째 수.obj : error LNK2005: "int __cdecl partion(class std::vector<int,class std::allocator<int> > &,int,int)" (?partion@@YAHAEAV?$vector@HV?$allocator@H@std@@@std@@HH@Z)이(가) [실버5](왼쪽 값 피벗)11004_k번째 수.obj에 이미 정의되어 있습니다.
+[실버5](중앙 값 피벗)11004_k번째 수.obj : error LNK2005: "void __cdecl swap(class std::vector<int,class std::allocator<int> > &,int,int)" (?swap@@YAXAEAV?$vector@HV?$allocator@H@std@@@std@@HH@Z)이(가) [실버5](왼쪽 값 피벗)11004_k번째 수.obj에 이미 정의되어 있습니다.
+[실버5](중앙 값 피벗)11004_k번째 수.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5]2751_수 정렬하기2.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5]2751_수 정렬하기2_test.obj : error LNK2005: "void __cdecl mergesort(int,int)" (?mergesort@@YAXHH@Z)이(가) [실버5]2751_수 정렬하기2.obj에 이미 정의되어 있습니다.
+[실버5]2751_수 정렬하기2_test.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘5]1517_버블 소트.obj : error LNK2005: "void __cdecl mergesort(int,int)" (?mergesort@@YAXHH@Z)이(가) [실버5]2751_수 정렬하기2.obj에 이미 정의되어 있습니다.
+[플래티넘5]1517_버블 소트.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5]10989_수 정렬하기3.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드5]13023_ABCDE.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드5]2023_신기한 소수.obj : error LNK2005: "void __cdecl DFS(int,int)" (?DFS@@YAXHH@Z)이(가) [골드5]13023_ABCDE.obj에 이미 정의되어 있습니다.
+[골드5]2023_신기한 소수.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버5]11724_연결 요소의 개수 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드2]1167_트리의 지름.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]2178_미로 탐색.obj : error LNK2005: "void __cdecl DFS(int,int)" (?DFS@@YAXHH@Z)이(가) [골드5]13023_ABCDE.obj에 이미 정의되어 있습니다.
+[실버1]2178_미로 탐색.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버2]1260_DFS와 BFS.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드1]★1300_k 번째 수 .obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]★2343_블루레이 만들기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버4]1920_이진 탐색.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]1715_카드 정렬하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]1744_수 묶기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]★1931_회의실 배정.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버2]1541_잃어버린 괄호.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버4]11047_동전0.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드1]21568_Ax+By=C.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드1]★1016_제곱ㄴㄴ수.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드1]★11689_GCD(n,k)=1.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드2]★★1033_칵테일.obj : error LNK2005: "void __cdecl DFS(int)" (?DFS@@YAXH@Z)이(가) [실버2]1260_DFS와 BFS.obj에 이미 정의되어 있습니다.
+[골드2]★★1033_칵테일.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드2]★★1033_칵테일.obj : error LNK2005: "class std::vector<bool,class std::allocator<bool> > Visited" (?Visited@@3V?$vector@_NV?$allocator@_N@std@@@std@@A)이(가) [골드2]1167_트리의 지름.obj에 이미 정의되어 있습니다.
+[골드5]1456_거의 소수.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[브론즈1]★1934_최소 공배수.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]1747_소수&팰린드롬.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]★1850_최대 공약수cpp.obj : error LNK2005: "long __cdecl gcd(long,long)" (?gcd@@YAJJJ@Z)이(가) [골드2]★★1033_칵테일.obj에 이미 정의되어 있습니다.
+[실버1]★1850_최대 공약수cpp.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버3]1929_소수 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]★1707_이분 그래프.obj : error LNK2005: "void __cdecl DFS(int)" (?DFS@@YAXH@Z)이(가) [실버2]1260_DFS와 BFS.obj에 이미 정의되어 있습니다.
+[골드4]★1707_이분 그래프.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드5]★2251_물통.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]1325_효율적인 해킹.obj : error LNK2005: "void __cdecl DFS(int)" (?DFS@@YAXH@Z)이(가) [실버2]1260_DFS와 BFS.obj에 이미 정의되어 있습니다.
+[실버1]1325_효율적인 해킹.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버1]1325_효율적인 해킹.obj : error LNK2005: "class std::vector<bool,class std::allocator<bool> > Visited" (?Visited@@3V?$vector@_NV?$allocator@_N@std@@@std@@A)이(가) [골드2]1167_트리의 지름.obj에 이미 정의되어 있습니다.
+[실버2]18352_특정 거리의 도시 찾기.obj : error LNK2005: "void __cdecl BFS(int)" (?BFS@@YAXH@Z)이(가) [실버2]1260_DFS와 BFS.obj에 이미 정의되어 있습니다.
+[실버2]18352_특정 거리의 도시 찾기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[실버2]18352_특정 거리의 도시 찾기.obj : error LNK2005: "class std::vector<class std::vector<int,class std::allocator<int> >,class std::allocator<class std::vector<int,class std::allocator<int> > > > V" (?V@@3V?$vector@V?$vector@HV?$allocator@H@std@@@std@@V?$allocator@V?$vector@HV?$allocator@H@std@@@std@@@2@@std@@A)이(가) [실버1]1325_효율적인 해킹.obj에 이미 정의되어 있습니다.
+[골드4]★1043_거짓말.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]★1717_집합의 표현(유니온 파인드).obj : error LNK2005: "int __cdecl Find(int)" (?Find@@YAHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드4]★1717_집합의 표현(유니온 파인드).obj : error LNK2005: "void __cdecl Union(int,int)" (?Union@@YAXHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드4]★1717_집합의 표현(유니온 파인드).obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]★1976_여행 가자.obj : error LNK2005: "int __cdecl Find(int)" (?Find@@YAHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드4]★1976_여행 가자.obj : error LNK2005: "void __cdecl Union(int,int)" (?Union@@YAXHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드4]★1976_여행 가자.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드3]★1516_게임 개발.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드3]★2252_줄 세우기(위상정렬).obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘5]★1948_임계경로.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드5]1916_최소비용 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드5]1916_최소비용 구하기.obj : error LNK2005: "class std::vector<bool,class std::allocator<bool> > Visited" (?Visited@@3V?$vector@_NV?$allocator@_N@std@@@std@@A)이(가) [골드2]1167_트리의 지름.obj에 이미 정의되어 있습니다.
+[골드5]★1753_최단 경로 구하기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘5]★1854_k번째 최단경로 찾기.obj : error LNK2005: "void __cdecl Dijkstra(int,int)" (?Dijkstra@@YAXHH@Z)이(가) [골드5]1916_최소비용 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘5]★1854_k번째 최단경로 찾기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘5]★1854_k번째 최단경로 찾기.obj : error LNK2005: "class std::vector<class std::vector<struct std::pair<int,int>,class std::allocator<struct std::pair<int,int> > >,class std::allocator<class std::vector<struct std::pair<int,int>,class std::allocator<struct std::pair<int,int> > > > > NearList" (?NearList@@3V?$vector@V?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@V?$allocator@V?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@@2@@std@@A)이(가) [골드5]1916_최소비용 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘5]★1854_k번째 최단경로 찾기.obj : error LNK2005: "class std::priority_queue<struct std::pair<int,int>,class std::vector<struct std::pair<int,int>,class std::allocator<struct std::pair<int,int> > >,struct std::greater<struct std::pair<int,int> > > pQ" (?pQ@@3V?$priority_queue@U?$pair@HH@std@@V?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@2@U?$greater@U?$pair@HH@std@@@2@@std@@A)이(가) [골드5]1916_최소비용 구하기.obj에 이미 정의되어 있습니다.
+[골드4]11657_타임머신.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[플래티넘5]★1219_오민식의 고민.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]★11404_플로이드.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드1]17472_다리 만들기.obj : error LNK2005: "int __cdecl Find(int)" (?Find@@YAHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드1]17472_다리 만들기.obj : error LNK2005: "void __cdecl Union(int,int)" (?Union@@YAXHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드1]17472_다리 만들기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드3]1414_불우이웃돕기.obj : error LNK2005: "int __cdecl Find(int)" (?Find@@YAHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드3]1414_불우이웃돕기.obj : error LNK2005: "void __cdecl Union(int,int)" (?Union@@YAXHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드3]1414_불우이웃돕기.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+[골드4]1197_최소 신장 트리.obj : error LNK2005: "int __cdecl Find(int)" (?Find@@YAHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드4]1197_최소 신장 트리.obj : error LNK2005: "void __cdecl Union(int,int)" (?Union@@YAXHH@Z)이(가) [골드4]★1043_거짓말.obj에 이미 정의되어 있습니다.
+[골드4]1197_최소 신장 트리.obj : error LNK2005: main이(가) [브론즈 1]1546_평균 구하기.obj에 이미 정의되어 있습니다.
+C:\Users\kids1\Desktop\CodingTest Study\BaekJoon\x64\Debug\CodingTest.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

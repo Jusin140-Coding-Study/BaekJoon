@@ -19,238 +19,72 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="08. 그래프\8-1 그래프의 표현\[골드4]★1707_이분 그래프.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="08. 그래프\8-3 위상 정렬\[플래티넘5]★1948_임계경로.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드1]17472_다리 만들기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드4]1197_최소 신장 트리.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="08. 그래프\[골드3]★2252_줄 세우기%28위상정렬%29.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="09. 트리\9-1 트리 알아보기\[골드5]1068_트리.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드2]★1256_사전 찾기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드1]10868_최솟값.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드1]★11505_구간 곱 구하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드1]2042_구간 합 구하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드1]21568_Ax+By=C.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드1]★11689_GCD%28n,k%29=1.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드1]★1016_제곱ㄴㄴ수.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드2]★★1033_칵테일.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드2]1167_트리의 지름.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드2]★1377_버블 소트.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드3]1947_선물 전달.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드3]★11437_LCA%28최소 공통 조상%29.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드3]1414_불우이웃돕기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드3]1516_게임 개발.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드4]1915_가장 큰 정사각형.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드4]9252_최장 공통 수열.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드4]★1043_거짓말.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드4]1715_카드 정렬하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드4]★1976_여행 가자.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드4]★1717_집합의 표현%28유니온 파인드%29.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드4]1744_수 묶기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드5]13023_ABCDE.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드5]13398_연속합2.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드5]1916_최소비용 구하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드5]★1753_최단 경로 구하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드5]2023_신기한 소수.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드5] ★2251_물통.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[브론즈1]11050_이항 계수1.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[브론즈1]2775_부녀회장이 될테야.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[브론즈2]2747_피보나치 수.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[브론즈2]2750_수 정렬하기1.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[골드5]1456_거의 소수.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버1]1325_효율적인 해킹.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버1]1747_소수&amp;팰린드롬.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버1]1991_트리 순회.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버1]★1931_회의실 배정.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버1]2178_미로 탐색.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버1]★2343_블루레이 만들기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버2]11051_이항 계수2.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버2]11725_트리의 부모 찾기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버2]1260_DFS와 BFS.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버2]1541_잃어버린 괄호.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버2]18352_특정 거리의 도시 찾기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버3]13251_조약돌 꺼내기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버3]1463_1로 만들기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버3]1929_소수 구하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버4]11047_동전0.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버4]★14425_문자열 집합.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버4]1920_이진 탐색.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버4]★11399_ATM.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5]%28왼쪽 값 피벗%2911004_k번째 수.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5](중앙 값 피벗)11004_k번째 수.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5]10989_수 정렬하기3.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5]11724_연결 요소의 개수 구하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5]1427_내림차순으로 자릿수 정렬하기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5]2751_수 정렬하기2.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5]2751_수 정렬하기2_test.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[실버5]1010_다리 놓기1010_.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[플래티넘5]★11438_LCA2%28빠른 최소 공통 조상%29.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[플래티넘5]1517_버블 소트.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="[플래티넘5]★1854_k번째 최단경로 찾기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="03. 자료구조\3-1 배열과 리스트 그리고 벡터\[브론즈 1]1546_평균 구하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-1 배열과 리스트 그리고 벡터\[브론즈 4]11720_숫자의 합 구하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-2 구간 합\[골드3]10986_나머지 합 구하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-2 구간 합\[실버 1]11660_구간 합 구하기2.cpp" />
+    <ClCompile Include="03. 자료구조\3-2 구간 합\[실버 3]11659_구간 합 구하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-3 투 포인터\[골드4]1253_좋은 수 구하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-3 투 포인터\[실버4]1940_주몽의 명령.cpp" />
+    <ClCompile Include="03. 자료구조\3-3 투 포인터\[실버5]2018_연속된 자연수의 합 구하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-4 슬라이딩 윈도우\[실버5]12891_DNA 비밀번호.cpp" />
+    <ClCompile Include="03. 자료구조\3-4 슬라이딩 윈도우\[플래티넘 5]11003_최솟값 찾기.cpp" />
+    <ClCompile Include="03. 자료구조\3-5 스택과 큐\[골드4]★17298_오큰수 구하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-5 스택과 큐\[실버1]★11286 절댓값 힙 구현하기.cpp" />
+    <ClCompile Include="03. 자료구조\3-5 스택과 큐\[실버2]1874_스택 수열.cpp" />
+    <ClCompile Include="03. 자료구조\3-5 스택과 큐\[실버4]2164 카드게임.cpp" />
+    <ClCompile Include="04. 정렬\4-1 버블 정렬\[골드2]★1377_버블 소트.cpp" />
+    <ClCompile Include="04. 정렬\4-1 버블 정렬\[브론즈2]2750_수 정렬하기1.cpp" />
+    <ClCompile Include="04. 정렬\4-2 선택 정렬\[실버5]1427_내림차순으로 자릿수 정렬하기.cpp" />
+    <ClCompile Include="04. 정렬\4-3 삽입 정렬\[실버4]★11399_ATM.cpp" />
+    <ClCompile Include="04. 정렬\4-4 퀵 정렬\[실버5](왼쪽 값 피벗)11004_k번째 수.cpp" />
+    <ClCompile Include="04. 정렬\4-4 퀵 정렬\[실버5](중앙 값 피벗)11004_k번째 수.cpp" />
+    <ClCompile Include="04. 정렬\4-5 병합 정렬\[실버5]2751_수 정렬하기2.cpp" />
+    <ClCompile Include="04. 정렬\4-5 병합 정렬\[실버5]2751_수 정렬하기2_test.cpp" />
+    <ClCompile Include="04. 정렬\4-5 병합 정렬\[플래티넘5]1517_버블 소트.cpp" />
+    <ClCompile Include="04. 정렬\4-6 기수 정렬(계수 정렬)\[실버5]10989_수 정렬하기3.cpp" />
+    <ClCompile Include="05. 탐색\5-1 (DFS)깊이 우선 탐색\[골드5]13023_ABCDE.cpp" />
+    <ClCompile Include="05. 탐색\5-1 (DFS)깊이 우선 탐색\[골드5]2023_신기한 소수.cpp" />
+    <ClCompile Include="05. 탐색\5-1 (DFS)깊이 우선 탐색\[실버5]11724_연결 요소의 개수 구하기.cpp" />
+    <ClCompile Include="05. 탐색\5-2 (BFS)너비 우선 탐색\[골드2]1167_트리의 지름.cpp" />
+    <ClCompile Include="05. 탐색\5-2 (BFS)너비 우선 탐색\[실버1]2178_미로 탐색.cpp" />
+    <ClCompile Include="05. 탐색\5-2 (BFS)너비 우선 탐색\[실버2]1260_DFS와 BFS.cpp" />
+    <ClCompile Include="05. 탐색\5-3 이진 탐색\[골드1]★1300_k 번째 수 .cpp" />
+    <ClCompile Include="05. 탐색\5-3 이진 탐색\[실버1]★2343_블루레이 만들기.cpp" />
+    <ClCompile Include="05. 탐색\5-3 이진 탐색\[실버4]1920_이진 탐색.cpp" />
+    <ClCompile Include="06. 그리디\[골드4]1715_카드 정렬하기.cpp" />
+    <ClCompile Include="06. 그리디\[골드4]1744_수 묶기.cpp" />
+    <ClCompile Include="06. 그리디\[실버1]★1931_회의실 배정.cpp" />
+    <ClCompile Include="06. 그리디\[실버2]1541_잃어버린 괄호.cpp" />
+    <ClCompile Include="06. 그리디\[실버4]11047_동전0.cpp" />
+    <ClCompile Include="07. 정수론\[골드1]21568_Ax+By=C.cpp" />
+    <ClCompile Include="07. 정수론\[골드1]★1016_제곱ㄴㄴ수.cpp" />
+    <ClCompile Include="07. 정수론\[골드1]★11689_GCD(n,k)=1.cpp" />
+    <ClCompile Include="07. 정수론\[골드2]★★1033_칵테일.cpp" />
+    <ClCompile Include="07. 정수론\[골드5]1456_거의 소수.cpp" />
+    <ClCompile Include="07. 정수론\[브론즈1]★1934_최소 공배수.cpp" />
+    <ClCompile Include="07. 정수론\[실버1]1747_소수&amp;팰린드롬.cpp" />
+    <ClCompile Include="07. 정수론\[실버1]★1850_최대 공약수cpp.cpp" />
+    <ClCompile Include="07. 정수론\[실버3]1929_소수 구하기.cpp" />
+    <ClCompile Include="08. 그래프\8-1 그래프의 표현\[골드4]★1707_이분 그래프.cpp" />
+    <ClCompile Include="08. 그래프\8-1 그래프의 표현\[골드5]★2251_물통.cpp" />
+    <ClCompile Include="08. 그래프\8-1 그래프의 표현\[실버1]1325_효율적인 해킹.cpp" />
+    <ClCompile Include="08. 그래프\8-1 그래프의 표현\[실버2]18352_특정 거리의 도시 찾기.cpp" />
+    <ClCompile Include="08. 그래프\8-2 유니온 파인드\[골드4]★1043_거짓말.cpp" />
+    <ClCompile Include="08. 그래프\8-2 유니온 파인드\[골드4]★1717_집합의 표현(유니온 파인드).cpp" />
+    <ClCompile Include="08. 그래프\8-2 유니온 파인드\[골드4]★1976_여행 가자.cpp" />
+    <ClCompile Include="08. 그래프\8-3 위상 정렬\[골드3]★1516_게임 개발.cpp" />
+    <ClCompile Include="08. 그래프\8-3 위상 정렬\[골드3]★2252_줄 세우기(위상정렬).cpp" />
+    <ClCompile Include="08. 그래프\8-3 위상 정렬\[플래티넘5]★1948_임계경로.cpp" />
+    <ClCompile Include="08. 그래프\8-4 다익스트라\[골드5]1916_최소비용 구하기.cpp" />
+    <ClCompile Include="08. 그래프\8-4 다익스트라\[골드5]★1753_최단 경로 구하기.cpp" />
+    <ClCompile Include="08. 그래프\8-4 다익스트라\[플래티넘5]★1854_k번째 최단경로 찾기.cpp" />
+    <ClCompile Include="08. 그래프\8-5 벨만-포드\[골드4]11657_타임머신.cpp" />
+    <ClCompile Include="08. 그래프\8-5 벨만-포드\[플래티넘5]★1219_오민식의 고민.cpp" />
+    <ClCompile Include="08. 그래프\8-6 플로이드 워셜\[골드4]★11404_플로이드.cpp" />
+    <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드1]17472_다리 만들기.cpp" />
+    <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드3]1414_불우이웃돕기.cpp" />
+    <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드4]1197_최소 신장 트리.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
