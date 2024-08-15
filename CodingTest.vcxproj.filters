@@ -268,6 +268,21 @@
     <ClCompile Include="11. 동적 계획법\[골드3]2342_DDR.cpp">
       <Filter>11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
     </ClCompile>
+    <ClCompile Include="11. 동적 계획법\24416_알고리즘 수업.cpp">
+      <Filter>11. 동적 계획법\11-2 그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\9184_신나는 함수 실행.cpp">
+      <Filter>11. 동적 계획법\11-2 그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\1904_01타일.cpp">
+      <Filter>11. 동적 계획법\11-2 그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\9461_파도반 수열.cpp">
+      <Filter>11. 동적 계획법\11-2 그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 동적 계획법\1912_연속합.cpp">
+      <Filter>11. 동적 계획법\11-2 그 외</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="03. 자료구조">
@@ -392,6 +407,9 @@
     </Filter>
     <Filter Include="11. 동적 계획법\11-1. 동적 계획법 알아보기">
       <UniqueIdentifier>{2432958b-f5ce-4af3-8df7-156bfdddf3af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. 동적 계획법\11-2 그 외">
+      <UniqueIdentifier>{5aba05ab-ddf9-4818-a741-83aab06337ff}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
