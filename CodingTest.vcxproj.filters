@@ -2,453 +2,474 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="03. 자료구조\3-1 배열과 리스트 그리고 벡터\[브론즈 1]1546_평균 구하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-1. 배열과 리스트 그리고 벡터</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-1. 배열과 리스트 그리고 벡터</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-1 배열과 리스트 그리고 벡터\[브론즈 4]11720_숫자의 합 구하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-1. 배열과 리스트 그리고 벡터</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-1. 배열과 리스트 그리고 벡터</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-2 구간 합\[실버 1]11660_구간 합 구하기2.cpp">
-      <Filter>두잇 책\03. 자료구조\03-2. 구간 합</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-2. 구간 합</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-2 구간 합\[실버 3]11659_구간 합 구하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-2. 구간 합</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-2. 구간 합</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-2 구간 합\[골드3]10986_나머지 합 구하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-2. 구간 합</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-2. 구간 합</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-3 투 포인터\[실버4]1940_주몽의 명령.cpp">
-      <Filter>두잇 책\03. 자료구조\03-3. 투 포인터</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-3. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-3 투 포인터\[실버5]2018_연속된 자연수의 합 구하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-3. 투 포인터</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-3. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-3 투 포인터\[골드4]1253_좋은 수 구하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-3. 투 포인터</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-3. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-4 슬라이딩 윈도우\[실버5]12891_DNA 비밀번호.cpp">
-      <Filter>두잇 책\03. 자료구조\03-4. 슬라이딩 윈도우</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-4. 슬라이딩 윈도우</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-4 슬라이딩 윈도우\[플래티넘 5]11003_최솟값 찾기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-4. 슬라이딩 윈도우</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-4. 슬라이딩 윈도우</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-5 스택과 큐\[실버4]2164 카드게임.cpp">
-      <Filter>두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-5 스택과 큐\[골드4]★17298_오큰수 구하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-5 스택과 큐\[실버1]★11286 절댓값 힙 구현하기.cpp">
-      <Filter>두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
     </ClCompile>
     <ClCompile Include="03. 자료구조\3-5 스택과 큐\[실버2]1874_스택 수열.cpp">
-      <Filter>두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
+      <Filter>0. 두잇 책\03. 자료구조\03-5. 스택과 큐</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-1 버블 정렬\[브론즈2]2750_수 정렬하기1.cpp">
-      <Filter>두잇 책\04. 정렬\04-1. 버블 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-1. 버블 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-1 버블 정렬\[골드2]★1377_버블 소트.cpp">
-      <Filter>두잇 책\04. 정렬\04-1. 버블 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-1. 버블 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-2 선택 정렬\[실버5]1427_내림차순으로 자릿수 정렬하기.cpp">
-      <Filter>두잇 책\04. 정렬\04-2. 선택 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-2. 선택 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-3 삽입 정렬\[실버4]★11399_ATM.cpp">
-      <Filter>두잇 책\04. 정렬\04-3. 삽입 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-3. 삽입 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-4 퀵 정렬\[실버5](중앙 값 피벗)11004_k번째 수.cpp">
-      <Filter>두잇 책\04. 정렬\04-4. 퀵 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-4. 퀵 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-4 퀵 정렬\[실버5](왼쪽 값 피벗)11004_k번째 수.cpp">
-      <Filter>두잇 책\04. 정렬\04-4. 퀵 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-4. 퀵 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-5 병합 정렬\[플래티넘5]1517_버블 소트.cpp">
-      <Filter>두잇 책\04. 정렬\04-5. 병합 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-5. 병합 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-5 병합 정렬\[실버5]2751_수 정렬하기2.cpp">
-      <Filter>두잇 책\04. 정렬\04-5. 병합 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-5. 병합 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-5 병합 정렬\[실버5]2751_수 정렬하기2_test.cpp">
-      <Filter>두잇 책\04. 정렬\04-5. 병합 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-5. 병합 정렬</Filter>
     </ClCompile>
     <ClCompile Include="04. 정렬\4-6 기수 정렬(계수 정렬)\[실버5]10989_수 정렬하기3.cpp">
-      <Filter>두잇 책\04. 정렬\04-6. 기수 정렬</Filter>
+      <Filter>0. 두잇 책\04. 정렬\04-6. 기수 정렬</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-1 (DFS)깊이 우선 탐색\[실버5]11724_연결 요소의 개수 구하기.cpp">
-      <Filter>두잇 책\05. 탐색\05-1 깊이 우선 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-1 깊이 우선 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-1 (DFS)깊이 우선 탐색\[골드5]2023_신기한 소수.cpp">
-      <Filter>두잇 책\05. 탐색\05-1 깊이 우선 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-1 깊이 우선 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-1 (DFS)깊이 우선 탐색\[골드5]13023_ABCDE.cpp">
-      <Filter>두잇 책\05. 탐색\05-1 깊이 우선 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-1 깊이 우선 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-2 (BFS)너비 우선 탐색\[실버2]1260_DFS와 BFS.cpp">
-      <Filter>두잇 책\05. 탐색\05-2 너비 우선 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-2 너비 우선 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-2 (BFS)너비 우선 탐색\[골드2]1167_트리의 지름.cpp">
-      <Filter>두잇 책\05. 탐색\05-2 너비 우선 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-2 너비 우선 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-2 (BFS)너비 우선 탐색\[실버1]2178_미로 탐색.cpp">
-      <Filter>두잇 책\05. 탐색\05-2 너비 우선 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-2 너비 우선 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-3 이진 탐색\[실버4]1920_이진 탐색.cpp">
-      <Filter>두잇 책\05. 탐색\05-3 이진 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-3 이진 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-3 이진 탐색\[골드1]★1300_k 번째 수 .cpp">
-      <Filter>두잇 책\05. 탐색\05-3 이진 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-3 이진 탐색</Filter>
     </ClCompile>
     <ClCompile Include="05. 탐색\5-3 이진 탐색\[실버1]★2343_블루레이 만들기.cpp">
-      <Filter>두잇 책\05. 탐색\05-3 이진 탐색</Filter>
+      <Filter>0. 두잇 책\05. 탐색\05-3 이진 탐색</Filter>
     </ClCompile>
     <ClCompile Include="06. 그리디\[실버4]11047_동전0.cpp">
-      <Filter>두잇 책\06. 그리디</Filter>
+      <Filter>0. 두잇 책\06. 그리디</Filter>
     </ClCompile>
     <ClCompile Include="06. 그리디\[골드4]1715_카드 정렬하기.cpp">
-      <Filter>두잇 책\06. 그리디</Filter>
+      <Filter>0. 두잇 책\06. 그리디</Filter>
     </ClCompile>
     <ClCompile Include="06. 그리디\[골드4]1744_수 묶기.cpp">
-      <Filter>두잇 책\06. 그리디</Filter>
+      <Filter>0. 두잇 책\06. 그리디</Filter>
     </ClCompile>
     <ClCompile Include="06. 그리디\[실버1]★1931_회의실 배정.cpp">
-      <Filter>두잇 책\06. 그리디</Filter>
+      <Filter>0. 두잇 책\06. 그리디</Filter>
     </ClCompile>
     <ClCompile Include="06. 그리디\[실버2]1541_잃어버린 괄호.cpp">
-      <Filter>두잇 책\06. 그리디</Filter>
+      <Filter>0. 두잇 책\06. 그리디</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[실버3]1929_소수 구하기.cpp">
-      <Filter>두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[골드5]1456_거의 소수.cpp">
-      <Filter>두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[실버1]1747_소수&amp;팰린드롬.cpp">
-      <Filter>두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[골드1]★1016_제곱ㄴㄴ수.cpp">
-      <Filter>두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-1. 소수 구하기</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[골드1]★11689_GCD(n,k)=1.cpp">
-      <Filter>두잇 책\07. 정수론\07-2. 오일러 피</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-2. 오일러 피</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[브론즈1]★1934_최소 공배수.cpp">
-      <Filter>두잇 책\07. 정수론\07-3. 유클리드 호제법</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-3. 유클리드 호제법</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[실버1]★1850_최대 공약수cpp.cpp">
-      <Filter>두잇 책\07. 정수론\07-3. 유클리드 호제법</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-3. 유클리드 호제법</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[골드2]★★1033_칵테일.cpp">
-      <Filter>두잇 책\07. 정수론\07-3. 유클리드 호제법</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-3. 유클리드 호제법</Filter>
     </ClCompile>
     <ClCompile Include="07. 정수론\[골드1]21568_Ax+By=C.cpp">
-      <Filter>두잇 책\07. 정수론\07-4. 확장 유클리드 호제법</Filter>
+      <Filter>0. 두잇 책\07. 정수론\07-4. 확장 유클리드 호제법</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-1 그래프의 표현\[실버1]1325_효율적인 해킹.cpp">
-      <Filter>두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-1 그래프의 표현\[실버2]18352_특정 거리의 도시 찾기.cpp">
-      <Filter>두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-1 그래프의 표현\[골드4]★1707_이분 그래프.cpp">
-      <Filter>두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-1 그래프의 표현\[골드5]★2251_물통.cpp">
-      <Filter>두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-1. 그래프의 표현</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-2 유니온 파인드\[골드4]★1976_여행 가자.cpp">
-      <Filter>두잇 책\08. 그래프\08-2. 유니온 파인드</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-2. 유니온 파인드</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-2 유니온 파인드\[골드4]★1043_거짓말.cpp">
-      <Filter>두잇 책\08. 그래프\08-2. 유니온 파인드</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-2. 유니온 파인드</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-2 유니온 파인드\[골드4]★1717_집합의 표현(유니온 파인드).cpp">
-      <Filter>두잇 책\08. 그래프\08-2. 유니온 파인드</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-2. 유니온 파인드</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-3 위상 정렬\[플래티넘5]★1948_임계경로.cpp">
-      <Filter>두잇 책\08. 그래프\08-3. 위상 정렬</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-3. 위상 정렬</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-3 위상 정렬\[골드3]★1516_게임 개발.cpp">
-      <Filter>두잇 책\08. 그래프\08-3. 위상 정렬</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-3. 위상 정렬</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-3 위상 정렬\[골드3]★2252_줄 세우기(위상정렬).cpp">
-      <Filter>두잇 책\08. 그래프\08-3. 위상 정렬</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-3. 위상 정렬</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-4 다익스트라\[플래티넘5]★1854_k번째 최단경로 찾기.cpp">
-      <Filter>두잇 책\08. 그래프\08-4. 다익스트라</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-4. 다익스트라</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-4 다익스트라\[골드5]★1753_최단 경로 구하기.cpp">
-      <Filter>두잇 책\08. 그래프\08-4. 다익스트라</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-4. 다익스트라</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-4 다익스트라\[골드5]1916_최소비용 구하기.cpp">
-      <Filter>두잇 책\08. 그래프\08-4. 다익스트라</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-4. 다익스트라</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-5 벨만-포드\[플래티넘5]★1219_오민식의 고민.cpp">
-      <Filter>두잇 책\08. 그래프\08-5. 벨만-포드</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-5. 벨만-포드</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-5 벨만-포드\[골드4]11657_타임머신.cpp">
-      <Filter>두잇 책\08. 그래프\08-5. 벨만-포드</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-5. 벨만-포드</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-6 플로이드 워셜\[골드4]★11404_플로이드.cpp">
-      <Filter>두잇 책\08. 그래프\08-6. 플로이드 워셜</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-6. 플로이드 워셜</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드3]1414_불우이웃돕기.cpp">
-      <Filter>두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드4]1197_최소 신장 트리.cpp">
-      <Filter>두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드1]17472_다리 만들기.cpp">
-      <Filter>두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-1 트리 알아보기\[실버2]11725_트리의 부모 찾기.cpp">
-      <Filter>두잇 책\09. 트리\09-1. 트리 알아보기</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-1. 트리 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-1 트리 알아보기\[골드5]1068_트리.cpp">
-      <Filter>두잇 책\09. 트리\09-1. 트리 알아보기</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-1. 트리 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-2 트라이\[실버4]★14425_문자열 집합.cpp">
-      <Filter>두잇 책\09. 트리\09-2. 트라이</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-2. 트라이</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-3 이진 트리\[실버1]1991_트리 순회.cpp">
-      <Filter>두잇 책\09. 트리\09-3. 이진 트리</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-3. 이진 트리</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-4 세그먼트 트리\[골드1]10868_최솟값.cpp">
-      <Filter>두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-4 세그먼트 트리\[골드1]★11505_구간 곱 구하기.cpp">
-      <Filter>두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-4 세그먼트 트리\[골드1]2042_구간 합 구하기.cpp">
-      <Filter>두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-5 최소 공통 조상\[플래티넘5]★11438_LCA2(빠른 최소 공통 조상).cpp">
-      <Filter>두잇 책\09. 트리\09-5. 최소 공통 조상</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-5. 최소 공통 조상</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-5 최소 공통 조상\[골드3]★11437_LCA(최소 공통 조상).cpp">
-      <Filter>두잇 책\09. 트리\09-5. 최소 공통 조상</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-5. 최소 공통 조상</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[브론즈1]11050_이항 계수1.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[실버2]11051_이항 계수2.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[브론즈1]2775_부녀회장이 될테야.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[실버5]1010_다리 놓기1010_.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[실버3]13251_조약돌 꺼내기.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드5]★1722_순열의 순서.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드2]★1256_사전 찾기.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="10. 조합\10-1 조합 알아보기\[골드3]1947_선물 전달.cpp">
-      <Filter>두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
+      <Filter>0. 두잇 책\10. 조합\10-1. 조합 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\[실버3]1463_1로 만들기.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\[골드5]13398_연속합2.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\[골드4]9252_최장 공통 수열.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\[골드4]1915_가장 큰 정사각형.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\[플래티넘5]★1328_고층 빌딩.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\[골드3]2342_DDR.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\24416_알고리즘 수업.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-2 그 외</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-2 그 외</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\9184_신나는 함수 실행.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-2 그 외</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-2 그 외</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\1904_01타일.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-2 그 외</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-2 그 외</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\9461_파도반 수열.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-2 그 외</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-2 그 외</Filter>
     </ClCompile>
     <ClCompile Include="11. 동적 계획법\1912_연속합.cpp">
-      <Filter>두잇 책\11. 동적 계획법\11-2 그 외</Filter>
+      <Filter>0. 두잇 책\11. 동적 계획법\11-2 그 외</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-4 다익스트라\[골드5]★1753_최단 경로 구하기_test.cpp">
-      <Filter>두잇 책\08. 그래프\08-4. 다익스트라</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-4. 다익스트라</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-4 다익스트라\[골드5]1916_최소비용 구하기_test.cpp">
-      <Filter>두잇 책\08. 그래프\08-4. 다익스트라</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-4. 다익스트라</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-5 벨만-포드\[골드4]11657_타임머신_test.cpp">
-      <Filter>두잇 책\08. 그래프\08-5. 벨만-포드</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-5. 벨만-포드</Filter>
     </ClCompile>
     <ClCompile Include="08. 그래프\8-7 최소 신장 트리\[골드4]1197_최소 신장 트리_test.cpp">
-      <Filter>두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
+      <Filter>0. 두잇 책\08. 그래프\08-7. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-2 트라이\[실버4]★14425_문자열 집합_test.cpp">
-      <Filter>두잇 책\09. 트리\09-2. 트라이</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-2. 트라이</Filter>
     </ClCompile>
     <ClCompile Include="09. 트리\9-4 세그먼트 트리\[골드1]2042_구간 합 구하기_test.cpp">
-      <Filter>두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
+      <Filter>0. 두잇 책\09. 트리\09-4. 세그먼트 트리</Filter>
     </ClCompile>
     <ClCompile Include="[브론즈1]2309_일곱난쟁이.cpp">
-      <Filter>완전 탐색%28브루트 포스%29</Filter>
+      <Filter>1. 완전 탐색%28브루트 포스%29</Filter>
     </ClCompile>
     <ClCompile Include="[실버2]6603_로또.cpp">
-      <Filter>완전 탐색%28브루트 포스%29</Filter>
+      <Filter>1. 완전 탐색%28브루트 포스%29</Filter>
     </ClCompile>
     <ClCompile Include="[골드2]1202_보석 도둑.cpp">
-      <Filter>완전 탐색%28브루트 포스%29</Filter>
+      <Filter>1. 완전 탐색%28브루트 포스%29</Filter>
     </ClCompile>
     <ClCompile Include="[실버2]2630_색종이 만들기.cpp">
-      <Filter>완전 탐색%28브루트 포스%29</Filter>
+      <Filter>2. 분할 정복</Filter>
     </ClCompile>
-    <ClCompile Include="[플래티넘5]6549_히스토그램에서 가장 큰 직사각형.cpp">
-      <Filter>완전 탐색%28브루트 포스%29</Filter>
+    <ClCompile Include="[실버4]1920_수 찾기.cpp">
+      <Filter>2. 분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="[실버2]1654_랜선 자르기.cpp">
+      <Filter>2. 분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="[골드5]2294_동전2.cpp">
+      <Filter>2. 분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="[골드5]★12865_평범한 배낭.cpp">
+      <Filter>3. 동적 계획법%28DP%29</Filter>
+    </ClCompile>
+    <ClCompile Include="[실버3]11659_구간 합 구하기4.cpp">
+      <Filter>3. 동적 계획법%28DP%29</Filter>
+    </ClCompile>
+    <ClCompile Include="[실버2]11053_가장 긴 증가하는 부분 수열.cpp">
+      <Filter>3. 동적 계획법%28DP%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="두잇 책">
+    <Filter Include="1. 완전 탐색%28브루트 포스%29">
+      <UniqueIdentifier>{9caf8dd8-c445-4f74-b107-1c4b335e3183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0. 두잇 책">
       <UniqueIdentifier>{6d34808f-7fdf-4118-b3fb-387f030fcc50}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\11. 동적 계획법">
+    <Filter Include="0. 두잇 책\11. 동적 계획법">
       <UniqueIdentifier>{5064abb8-6a81-47ba-b641-24a5f35556ba}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기">
+    <Filter Include="0. 두잇 책\11. 동적 계획법\11-1. 동적 계획법 알아보기">
       <UniqueIdentifier>{2432958b-f5ce-4af3-8df7-156bfdddf3af}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\11. 동적 계획법\11-2 그 외">
+    <Filter Include="0. 두잇 책\11. 동적 계획법\11-2 그 외">
       <UniqueIdentifier>{5aba05ab-ddf9-4818-a741-83aab06337ff}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\10. 조합">
+    <Filter Include="0. 두잇 책\10. 조합">
       <UniqueIdentifier>{040ec791-d5e2-45ee-8b67-12fc171ddaad}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\10. 조합\10-1. 조합 알아보기">
+    <Filter Include="0. 두잇 책\10. 조합\10-1. 조합 알아보기">
       <UniqueIdentifier>{386db235-b9a2-43a4-9bd2-c230e225b08f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\09. 트리">
+    <Filter Include="0. 두잇 책\09. 트리">
       <UniqueIdentifier>{ca508361-282f-4122-a4c8-5d928082696c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\09. 트리\09-1. 트리 알아보기">
+    <Filter Include="0. 두잇 책\09. 트리\09-1. 트리 알아보기">
       <UniqueIdentifier>{76331284-597e-4632-b504-cbedfb58cf1c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\09. 트리\09-2. 트라이">
+    <Filter Include="0. 두잇 책\09. 트리\09-2. 트라이">
       <UniqueIdentifier>{7d49d016-e06c-4bac-9bfc-eabe0995534d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\09. 트리\09-3. 이진 트리">
+    <Filter Include="0. 두잇 책\09. 트리\09-3. 이진 트리">
       <UniqueIdentifier>{5bf64941-c746-467e-890e-b7ead4f0c9da}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\09. 트리\09-4. 세그먼트 트리">
+    <Filter Include="0. 두잇 책\09. 트리\09-4. 세그먼트 트리">
       <UniqueIdentifier>{2739d935-dabd-41e3-ba1b-498e1ca78d6d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\09. 트리\09-5. 최소 공통 조상">
+    <Filter Include="0. 두잇 책\09. 트리\09-5. 최소 공통 조상">
       <UniqueIdentifier>{013f01bb-1346-476c-8699-77fbb0a88418}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프">
+    <Filter Include="0. 두잇 책\08. 그래프">
       <UniqueIdentifier>{4fad1c68-7a35-49ab-8b6a-97c6e6272a58}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프\08-1. 그래프의 표현">
+    <Filter Include="0. 두잇 책\08. 그래프\08-1. 그래프의 표현">
       <UniqueIdentifier>{e24bbfd6-0d89-4406-8902-3021e7101bac}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프\08-2. 유니온 파인드">
+    <Filter Include="0. 두잇 책\08. 그래프\08-2. 유니온 파인드">
       <UniqueIdentifier>{7b8b5d83-36b9-4139-9491-611d32df6fee}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프\08-3. 위상 정렬">
+    <Filter Include="0. 두잇 책\08. 그래프\08-3. 위상 정렬">
       <UniqueIdentifier>{2aa6d28e-2cc0-4fea-a50b-8c0173bf79d4}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프\08-4. 다익스트라">
+    <Filter Include="0. 두잇 책\08. 그래프\08-4. 다익스트라">
       <UniqueIdentifier>{01423915-134e-4298-a2d3-8c1bfae26f85}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프\08-5. 벨만-포드">
+    <Filter Include="0. 두잇 책\08. 그래프\08-5. 벨만-포드">
       <UniqueIdentifier>{2515b94c-fcbc-44f5-941e-8a9349a913d5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프\08-6. 플로이드 워셜">
+    <Filter Include="0. 두잇 책\08. 그래프\08-6. 플로이드 워셜">
       <UniqueIdentifier>{6014129e-426a-4d47-8dbe-1e6cc008d7f5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\08. 그래프\08-7. 최소 신장 트리">
+    <Filter Include="0. 두잇 책\08. 그래프\08-7. 최소 신장 트리">
       <UniqueIdentifier>{c2a3ea11-44bf-4f14-926a-57411685a4e9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\07. 정수론">
+    <Filter Include="0. 두잇 책\07. 정수론">
       <UniqueIdentifier>{0c5bb50e-3641-4853-ba03-9eb1419d85b1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\07. 정수론\07-1. 소수 구하기">
+    <Filter Include="0. 두잇 책\07. 정수론\07-1. 소수 구하기">
       <UniqueIdentifier>{ad3064b2-3149-4f07-9ad5-642d2e97a6d2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\07. 정수론\07-2. 오일러 피">
+    <Filter Include="0. 두잇 책\07. 정수론\07-2. 오일러 피">
       <UniqueIdentifier>{5c06d3b1-ffe9-4cad-b338-4fca60e0ec88}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\07. 정수론\07-3. 유클리드 호제법">
+    <Filter Include="0. 두잇 책\07. 정수론\07-3. 유클리드 호제법">
       <UniqueIdentifier>{bc3a1282-4a48-4f0c-ae8c-ebe8ef1de7b5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\07. 정수론\07-4. 확장 유클리드 호제법">
+    <Filter Include="0. 두잇 책\07. 정수론\07-4. 확장 유클리드 호제법">
       <UniqueIdentifier>{acf8909e-3925-46b4-a5ea-3a1bd50930ab}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\06. 그리디">
+    <Filter Include="0. 두잇 책\06. 그리디">
       <UniqueIdentifier>{992c6581-ec9f-4ed0-bd85-5be4d61310b9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\05. 탐색">
+    <Filter Include="0. 두잇 책\05. 탐색">
       <UniqueIdentifier>{4b15cdd8-047f-4f2e-9f08-5fa11069e972}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\05. 탐색\05-1 깊이 우선 탐색">
+    <Filter Include="0. 두잇 책\05. 탐색\05-1 깊이 우선 탐색">
       <UniqueIdentifier>{9f131a58-2690-4fcb-8c40-44bdcb29af7c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\05. 탐색\05-2 너비 우선 탐색">
+    <Filter Include="0. 두잇 책\05. 탐색\05-2 너비 우선 탐색">
       <UniqueIdentifier>{402b9db0-69c2-4e49-a47a-86616d5be708}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\05. 탐색\05-3 이진 탐색">
+    <Filter Include="0. 두잇 책\05. 탐색\05-3 이진 탐색">
       <UniqueIdentifier>{368942f9-b24f-4d7b-a8b6-eee7f3a35c27}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\04. 정렬">
+    <Filter Include="0. 두잇 책\04. 정렬">
       <UniqueIdentifier>{7d2a6ae3-49ae-4bf0-9ad8-d33b6d7a1db5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\04. 정렬\04-1. 버블 정렬">
+    <Filter Include="0. 두잇 책\04. 정렬\04-1. 버블 정렬">
       <UniqueIdentifier>{6a0c0a7a-cc77-4026-8eda-657c6408a9e0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\04. 정렬\04-2. 선택 정렬">
+    <Filter Include="0. 두잇 책\04. 정렬\04-2. 선택 정렬">
       <UniqueIdentifier>{4e856803-1c0a-4355-b768-0aa95e21b838}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\04. 정렬\04-3. 삽입 정렬">
+    <Filter Include="0. 두잇 책\04. 정렬\04-3. 삽입 정렬">
       <UniqueIdentifier>{783bee1b-5c0d-44db-b75f-b29ebf1d7278}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\04. 정렬\04-4. 퀵 정렬">
+    <Filter Include="0. 두잇 책\04. 정렬\04-4. 퀵 정렬">
       <UniqueIdentifier>{467d660d-3333-480c-b361-74d6d9942fcd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\04. 정렬\04-5. 병합 정렬">
+    <Filter Include="0. 두잇 책\04. 정렬\04-5. 병합 정렬">
       <UniqueIdentifier>{b5e3d566-e17e-4803-8d84-7c95c282a324}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\04. 정렬\04-6. 기수 정렬">
+    <Filter Include="0. 두잇 책\04. 정렬\04-6. 기수 정렬">
       <UniqueIdentifier>{fc574be8-6a49-4139-a14a-91b398ce8a95}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\03. 자료구조">
+    <Filter Include="0. 두잇 책\03. 자료구조">
       <UniqueIdentifier>{0d6019b3-dd6a-4813-a6cd-8d3d625cb1ac}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\03. 자료구조\03-1. 배열과 리스트 그리고 벡터">
+    <Filter Include="0. 두잇 책\03. 자료구조\03-1. 배열과 리스트 그리고 벡터">
       <UniqueIdentifier>{14af6ec0-bb8c-4475-9703-2e31aefff17a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\03. 자료구조\03-2. 구간 합">
+    <Filter Include="0. 두잇 책\03. 자료구조\03-2. 구간 합">
       <UniqueIdentifier>{84572d3d-e575-410c-8917-47b417a1348c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\03. 자료구조\03-3. 투 포인터">
+    <Filter Include="0. 두잇 책\03. 자료구조\03-3. 투 포인터">
       <UniqueIdentifier>{dd81bffe-ccd9-49b7-950f-98f77d57a21d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\03. 자료구조\03-4. 슬라이딩 윈도우">
+    <Filter Include="0. 두잇 책\03. 자료구조\03-4. 슬라이딩 윈도우">
       <UniqueIdentifier>{170ff98f-ae83-4592-a1e8-5ce58a671712}</UniqueIdentifier>
     </Filter>
-    <Filter Include="두잇 책\03. 자료구조\03-5. 스택과 큐">
+    <Filter Include="0. 두잇 책\03. 자료구조\03-5. 스택과 큐">
       <UniqueIdentifier>{e446b6e9-fb26-497b-b46a-caefcb08f218}</UniqueIdentifier>
     </Filter>
-    <Filter Include="완전 탐색%28브루트 포스%29">
-      <UniqueIdentifier>{9caf8dd8-c445-4f74-b107-1c4b335e3183}</UniqueIdentifier>
+    <Filter Include="2. 분할 정복">
+      <UniqueIdentifier>{eb0e2366-17ea-4b43-8c62-9861afea8b0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. 동적 계획법%28DP%29">
+      <UniqueIdentifier>{96f296ca-bb91-4a43-b2d3-41cab9b6c5cd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
