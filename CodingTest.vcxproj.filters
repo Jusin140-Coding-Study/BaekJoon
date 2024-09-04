@@ -343,6 +343,9 @@
     <ClCompile Include="[실버1]2178_미로 탐색.cpp">
       <Filter>4. 그래프 탐색%28DFS, BFS%29</Filter>
     </ClCompile>
+    <ClCompile Include="[실버1]2529_부등호.cpp">
+      <Filter>1. 완전 탐색%28브루트 포스%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="1. 완전 탐색%28브루트 포스%29">
