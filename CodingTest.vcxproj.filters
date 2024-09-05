@@ -332,19 +332,31 @@
       <Filter>3. 동적 계획법%28DP%29</Filter>
     </ClCompile>
     <ClCompile Include="[실버2]DFS와 BFS.cpp">
-      <Filter>4. 그래프 탐색%28DFS, BFS%29</Filter>
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
     </ClCompile>
     <ClCompile Include="[실버2]11724_연결 요소의 개수.cpp">
-      <Filter>4. 그래프 탐색%28DFS, BFS%29</Filter>
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
     </ClCompile>
     <ClCompile Include="[실버1]2667_단지번호붙이기.cpp">
-      <Filter>4. 그래프 탐색%28DFS, BFS%29</Filter>
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
     </ClCompile>
     <ClCompile Include="[실버1]2178_미로 탐색.cpp">
-      <Filter>4. 그래프 탐색%28DFS, BFS%29</Filter>
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
     </ClCompile>
     <ClCompile Include="[실버1]2529_부등호.cpp">
       <Filter>1. 완전 탐색%28브루트 포스%29</Filter>
+    </ClCompile>
+    <ClCompile Include="[골드4]11404_플로이드.cpp">
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="[골드5]1717_집합의 표현.cpp">
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="[골드4]1197_최소 스패닝 트리.cpp">
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="[골드3]2252_줄 세우기.cpp">
+      <Filter>4. 그래프 탐색%28DFS/BFS%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -486,7 +498,7 @@
     <Filter Include="3. 동적 계획법%28DP%29">
       <UniqueIdentifier>{96f296ca-bb91-4a43-b2d3-41cab9b6c5cd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="4. 그래프 탐색%28DFS, BFS%29">
+    <Filter Include="4. 그래프 탐색%28DFS/BFS%29">
       <UniqueIdentifier>{eaa6d20a-91ff-49fc-b8ce-f34fa13938b9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
